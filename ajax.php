@@ -23,7 +23,7 @@ if(isset($_POST) && !empty($_POST)){
 	}
 	
 	if($sendMessage != ''){
-		$fromEmail = 'roshanbinfarook@gmail.com';
+		$fromEmail = 'jasaulhaqbinfarook@gmail.com';
 		$toEmail = 'jasaulhaqbinfarook@gmail.com';
 		
 		$headers = "MIME-Version: 1.0" . "\r\n";
@@ -43,3 +43,4 @@ if(isset($_POST) && !empty($_POST)){
 }
 
 ?>
+
